@@ -1,6 +1,4 @@
-https://github.com/user-attachments/assets/589bc72d-cadb-4390-b947-c478f5e8bdb6
-Uploading logo-hero.mp4.mp4…
-
+<img width="1071" height="360" alt="bnnermhentor" src="https://github.com/user-attachments/assets/fe194af5-7c3a-46e0-8dcf-71a5eaf9cc5e" />
 # Hi 👋 I'm Moses Sunday
 
 ## 💻 Full Stack Developer
