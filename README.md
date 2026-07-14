@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Moses Sunday" />
+  <img width="1983" height="793" alt="ChatGPT Image Jul 14, 2026, 02_37_39 PM" src="https://github.com/user-attachments/assets/2f62332d-27ec-4e7c-8602-ab6e03bf4aa5" alt="Moses Sunday" />
 </p>
 
 <!-- Role Pills -->
