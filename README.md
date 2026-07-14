@@ -20,9 +20,9 @@ I build modern websites, web apps, AI tools, and automations.
 
 ### 📫 Connect with Me
 
-- Portfolio:
-- LinkedIn:
-- Email:
+- Portfolio: portfolio-gamma-jade-85.vercel.app
+ 
+- Email: mhentor001@hmail.com
 
 ---
 ⭐ Thanks for visiting my profile!
