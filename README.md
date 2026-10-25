@@ -71,7 +71,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oluwadamilarem9-sudo&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oluwadamilarem9-sudo&theme=react-dark" alt="GitHub contribution activity graph"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=oluwadamilarem9-sudo&theme=matrix&no-frame=true&margin-w=8&column=4" alt="GitHub achievements"/>
+  <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=oluwadamilarem9-sudo&theme=darkhub&no-frame=true&column=7" alt="GitHub achievements"/>
 </p>
 
 ---
