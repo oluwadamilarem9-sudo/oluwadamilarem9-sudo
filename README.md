@@ -1,37 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img width="1983" height="793" alt="ChatGPT Image Jul 14, 2026, 02_37_39 PM" src="https://github.com/user-attachments/assets/2f62332d-27ec-4e7c-8602-ab6e03bf4aa5" alt="Moses Sunday" />
-</p>
-
-<!-- Role Pills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer%20in%20Training-1F2937?style=for-the-badge&labelColor=0D1117" alt="Full Stack Developer in Training" />
-  <img src="https://img.shields.io/badge/AI%20Automation%20Enthusiast-1F2937?style=for-the-badge&labelColor=0D1117" alt="AI Automation Enthusiast" />
-  <img src="https://img.shields.io/badge/Blockchain%20Developer-1F2937?style=for-the-badge&labelColor=0D1117" alt="Blockchain Developer" />
-</p>
-
-<!-- Status -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Collaborate-1F2937?style=for-the-badge&labelColor=1F2937&color=1F2937" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF7F&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Moses+Sunday;Full+Stack+Developer+in+Training;AI+Automation+Enthusiast;Blockchain+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
-</p>
-
-<!-- Socials -->
-<p align="center">
-  <a href="https://github.com/oluwadamilarem9-sudo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=oluwadamilarem9-sudo&style=for-the-badge&color=00ff7f&label=Profile+Views"/>
-</p>
-
----
-
-
 <!-- MOSES SUNDAY | GITHUB PROFILE -->
 
 <!-- BANNER -->
