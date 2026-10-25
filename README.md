@@ -68,19 +68,16 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oluwadamilarem9-sudo&theme=react-dark" alt="GitHub contribution activity graph"/>
-</p>
+![GitHub Contributions](https://ghchart.rshah.org/oluwadamilarem9-sudo)
 
----
+## 🏆 GitHub Achievements
 
-## 🏆 GitHub Trophies
+- 💻 Building full-stack projects
+- 🤖 Exploring AI automation
+- 🌱 Learning and contributing on GitHub
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=oluwadamilarem9-sudo&theme=darkhub&no-frame=true&column=7" alt="GitHub achievements"/>
-</p>
 
 ---
 
